@@ -8,7 +8,7 @@
       <ul class="nav nav-pills">
         <li class="nav-item"><a href="/" class="nav-link active" aria-current="page">Home</a></li>
         <li class="nav-item"><a href="/about" class="nav-link">About</a></li>
-        <li class="nav-item"><a href="/contact" class="nav-link">Contacts</a></li>
+        <li class="nav-item"><a href="/contacts" class="nav-link">Contacts</a></li>
       </ul>
     </header>
 </div>
