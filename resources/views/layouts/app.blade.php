@@ -10,10 +10,13 @@
 </head>
 <body>
     @include('inc.header')
-    <div class="container pb-4">
-        @yield('content')
-
-        @include('inc.aside')
+    <div class="container d-flex pb-4">
+        <div class="col-8">
+            @yield('content')
+        </div>
+        <div class="col-4">
+            @include('inc.aside')
+        </div>
     </div>
     @include('inc.footer')
     <!-- JavaScript Bundle with Popper -->
